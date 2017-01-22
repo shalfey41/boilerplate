@@ -1,5 +1,3 @@
-/* eslint-disable global-require, strict */
-
 'use strict';
 
 const webpack = require('webpack');

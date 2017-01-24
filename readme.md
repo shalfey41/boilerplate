@@ -32,4 +32,4 @@
 8. [Как устроен мир семантической микроразметки](https://habrahabr.ru/company/yandex/blog/211638/)
 9. [Я совсем забыл о стилях для печати](http://prgssr.ru/development/ya-sovsem-zabyl-o-stilyah-dlya-pechati.html)
 10. [Need for Speed 2: Improving Front-End Performance](https://jonsuh.com/blog/need-for-speed-2/)
-11. [Case Study – Analyzing Web Font Performance](https://www.keycdn.com/blog/web-font-performance/)
+11. [Case Study – Analyzing Web Font Performance](https://www.keycdn.com/blog/web-font-performance/).
